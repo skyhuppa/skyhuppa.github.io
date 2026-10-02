@@ -12,16 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "default", "mint", "plum", "neon", "catppuccin_latte", "catppuccin_mocha"
+minimal_mistakes_skin    : "air" # "sunrise", "aqua", "contrast", "dark", "dirt", "default", "mint", "plum", "neon", "catppuccin_latte", "catppuccin_mocha"
 
 # Site Settings
 locale                   : "en-US"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "Droid-On-Time"
+title                    : "Mobile Technology"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "skyhuppa"
-description              : "Android releases, builds, custom images, tutorials."
+description              : "Android build releases, Android customization, tutorials."
 url                      : https://skyhuppa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : skyhuppa/skyhuppa.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -116,9 +116,9 @@ analytics:
 author:
   name             : "Adasi Kaakyire"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "**Technology**"
   location         : "Ghana"
-  email            : "skyhuppa@gmail.co"
+  email            : "skyhuppa@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
