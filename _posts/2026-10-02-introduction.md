@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Introduction: "AndroidOS"
+title: "Introduction: AndroidOS"
 header:
   caption: "[__Introduction__](https://source.android.com/)"
 ---
