@@ -115,7 +115,7 @@ analytics:
 # Site Author
 author:
   name             : "Adasi Kaakyire"
-  avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**I.T enthusiast in this age of technological advancement.**"
   location         : "Ghana"
   email            : "skyhuppa@gmail.com"
