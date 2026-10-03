@@ -1,4 +1,4 @@
-{% assign locale = include.locale | default: site.locale %}
+{% include base_path %}
 {% if paginator.total_pages > 1 %}
 <nav class="pagination" aria-label="Pagination">
   {% assign paginate_path_last = site.paginate_path | split: '/' | last %}
