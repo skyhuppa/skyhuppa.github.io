@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Android Open Source Project Updates"
+title: "ANdorid-Image: Android Open Source Project Updates"
 header:
-  caption: (https://source.android.com/)
+  caption: 
 ---
 
 Android Open Source Project (AOSP) is platform operating system use to power android devices [AOSP](https://source.android.com/)
