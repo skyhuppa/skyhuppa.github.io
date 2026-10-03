@@ -116,7 +116,7 @@ analytics:
 author:
   name             : "Adasi Kaakyire"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**I.T enthusiast in this age of technological advancement.**"
+  bio              : "I.T enthusiast in this age of technological advancement"
   location         : "Ghana"
   email            : "skyhuppa@gmail.com"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
