@@ -12,5 +12,5 @@ permalink: /about.html
 
 Tech enthusiast 
 1. learning c++ and python programming.
-2. Build and patch customized android iamges like AOSP,LineageOS, TeamWin, Orangefox and PitchBlack recovery images,
+2. Build and patch customized android iamges
 3. Update and modify software tools.
